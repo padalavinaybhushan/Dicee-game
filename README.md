@@ -1,4 +1,6 @@
 # Dicee-game
 
+It is a simple game created by Java Script . when you refresh the website the two dice will be rolled , the dice with higher number will
+termed as a winner . In this I used math.random to generate the random number between 1-6.
 
-https://user-images.githubusercontent.com/72262126/104149867-e2183280-53fd-11eb-80c6-ff80ed116611.mp4
+<img src="https://github.com/padalavinaybhushan/Dicee-game/blob/master/dice-game.gif" width="256"/>
